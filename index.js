@@ -6,12 +6,33 @@ dotenv.config();
 const dbService = require("./dbService");
 const {response} = require("express");
 
-const authRouter = require("./routes/auth")
+// const authRouter = require("./routes/auth")
+
+// Sử dụng websocket
+const http = require("http").createServer(app)
+const io = require("socket.io")(http,{
+    cors: {
+        origin: '*',
+    }
+})
+
 
 app.use(cors());
 app.use(express.json())
 app.use(express.urlencoded({extended: false}))
-app.use('/api/auth', authRouter)
+// app.use('/api/auth', authRouter)
+
+io.on('connection', socket => {
+    socket.on("message", ({name, message}) => {
+        console.log(name)
+        console.log(message)
+        io.emit("message", {name, message})
+    })
+})
+
+http.listen(4000,  () => {
+    console.log("listening on port 4000")
+})
 
 // created
 app.post("/insert", (req, res) => {
@@ -20,9 +41,10 @@ app.post("/insert", (req, res) => {
     const db = dbService.getDbServiceInstance();
     const result = db.insertNewData(username, password, hoten);
     result
-        .then(data=> res.json({success:true}))
+        .then(data => res.json({success: true}))
         .catch((err) => console.log(err))
 })
+
 
 // read
 app.get("/getAll", (req, res) => {
@@ -30,9 +52,11 @@ app.get("/getAll", (req, res) => {
     const result = db.getAllData();
 
     result
-        .then(data=> res.json({data: data}))
+        .then(data => res.json({data: data}))
         .catch((err) => console.log(err))
 })
+
+
 
 // update
 
