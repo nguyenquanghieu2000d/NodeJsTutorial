@@ -2,7 +2,7 @@ const express = require("express")
 const router = express.Router()
 const {validate} = require('../validator')
 const {validationResult} = require('express-validator')
-
+const bcrypt = require('bcrypt')
 
 
 // @route POST api/auth/register
@@ -19,13 +19,17 @@ router.post("/register", async (req, res) => {
 
 
 router.post("/", validate.validateRegisterUser(), async (req, res) => {
-    // const {password, email} = req;   
+    const {password, email} = req.body;   
     console.log(req.body)
     const errors = validationResult(req);
 
     if(errors.isEmpty()) {
-        res.json("USER ROUTE")
         
+    
+        // Check exist
+        let hashedPassword = await bcrypt.hash(password, 10);
+        console.log(hashedPassword);
+        res.json("USER ROUTE");
     }
     else{
         res.status(422).json({error:errors.array()});
