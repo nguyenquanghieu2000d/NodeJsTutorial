@@ -1,6 +1,8 @@
 const express = require("express")
-const dbService = require("./dbService");
 const router = express.Router()
+const {validate} = require('../validator')
+const {validationResult} = require('express-validator')
+
 
 
 // @route POST api/auth/register
@@ -16,6 +18,18 @@ router.post("/register", async (req, res) => {
 })
 
 
-router.get("/", (req, res) => res.send("USER ROUTE"))
+router.post("/", validate.validateRegisterUser(), async (req, res) => {
+    // const {password, email} = req;   
+    console.log(req.body)
+    const errors = validationResult(req);
+
+    if(errors.isEmpty()) {
+        res.json("USER ROUTE")
+        
+    }
+    else{
+        res.status(422).json({error:errors.array()});
+    }
+})
 
 module.exports = router
