@@ -3,25 +3,25 @@ const app = express()
 const cors = require("cors")
 const dotenv = require("dotenv")
 dotenv.config();
-const dbService = require("./dbService");
-const {response} = require("express");
+const { response } = require("express");
 
 // const authRouter = require("./routes/auth")
 
 // Sử dụng websocket
-const http = require("http").createServer(app)
-const io = require("socket.io")(http,{
-    cors: {
-        origin: '*',
-    }
-})
-
+// const http = require("http").createServer(app)
+// const io = require("socket.io")(http,{
+//     cors: {
+//         origin: '*',
+//     }
+// })
 
 app.use(cors());
 app.use(express.json());
 app.use("/api/user", require("./routes/user"));
-app.use("/api/auth", require("./routes/auth"))
-app.use(express.urlencoded({extended: false}));
+app.use("/api/auth", require("./routes/auth"));
+app.use("/api/post", require("./routes/post"));
+app.use("/api/quyen", require("./routes/quyen"));
+app.use(express.urlencoded({ extended: false }));
 
 
 

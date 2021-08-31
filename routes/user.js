@@ -1,23 +1,24 @@
 const router = require('express').Router();
-const {PrismaClient} = require('@prisma/client')
-const {validationResult} = require('express-validator')
-const { quyen , phong} = new PrismaClient();
-const {validate} = require('../validator')
+const { PrismaClient } = require('@prisma/client')
+const { validate } = require('../middleware/validator')
+const { validationResult } = require('express-validator')
+const { quyen, phong } = new PrismaClient();
 
-router.get('/okok', async (req, res) => {
+
+router.get('/okok', async(req, res) => {
     const users = await quyen.findMany({
-        select : {
+        select: {
             id: true // Chọn trường lấy ra 
         },
         where: {
-            ten:'admin' // điều kiện where
+            ten: 'admin' // điều kiện where
         }
     });
     re.json(users);
 });
 
-router.post('/ok', async (req, res) => {
-    const {id} = req.body;
+router.post('/ok', async(req, res) => {
+    const { id } = req.body;
     console.log(id)
 
 
@@ -25,12 +26,12 @@ router.post('/ok', async (req, res) => {
         where: {
             id: id
         },
-        select : {
+        select: {
             id: true
         }
     });
 
-    if(userExists) {
+    if (userExists) {
         return res.status(400).json({
             msg: "user already exists"
         })
@@ -41,7 +42,7 @@ router.post('/ok', async (req, res) => {
         }
     });
     res.json(newPhong)
-}) 
+})
 
 
 
