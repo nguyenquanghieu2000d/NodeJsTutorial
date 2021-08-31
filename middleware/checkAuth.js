@@ -1,7 +1,9 @@
 const JWT = require('jsonwebtoken');
-const secretKey = "skdfmklsdmnfklsmdfksnmdfk";
 
-module.exports = async(req, res, next) => {
+const secretKey = "skdfmklsdmnfklsmdfksnmdfkskdfmklsdmnfklsmdfksnmdfkskldhgfusdnikoghsjudngoierjtnienrgnikomdfignjidfgjdnsfgnokidsfngkjosndjkgfnsjdgnikjs";
+
+
+const checkAuth = async(req, res, next) => {
     const token = req.headers['x-auth-token'];
     console.log(token);
     if (!token) {
@@ -23,3 +25,5 @@ module.exports = async(req, res, next) => {
         })
     }
 }
+
+module.exports = { checkAuth, secretKey }

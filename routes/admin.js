@@ -7,44 +7,43 @@ const { v4 } = require('uuid');
 const { log4js } = require('../middleware/logging');
 const handleUndefined = require('../utils/utils');
 
-const FIRST_INSERT_ID_SYNTAX = "Q_";
-const ROUTER_NAME = "Quyền";
-const { quyen } = new PrismaClient();
-const logger = log4js.getLogger("quyen");
+const FIRST_INSERT_ID_SYNTAX = "AD_";
+const ROUTER_NAME = "Admin";
+const { admin } = new PrismaClient();
+const logger = log4js.getLogger("admin");
 
 
 router.get('/', async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
-    let { id, ten } = handleUndefined(req.query, ["id", "ten"]);
-    result = await quyen.findMany({
-        where: { id: { contains: id }, ten: { contains: ten } }
-    })
+    let { id, ten, gioi_tinh } = handleUndefined(req.query, ['id', 'ten', 'gioi_tinh']);
+    console.log(id, ten, gioi_tinh);
+    const result = await admin.findMany({
+        where: { id: { contains: id }, ten: { contains: ten }, gioi_tinh: { contains: gioi_tinh } }
+    });
     return res.json(result);
 });
 
 router.get("/:id", async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
-    const result = await quyen.findUnique({
+    const result = await admin.findUnique({
         where: { id: id }
     })
     return res.json(result);
 });
 
 
-router.post('/', validate.validateBodyQuyen(), async(req, res) => {
+router.post('/', validate.validateBodyAdmin(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
+    let { ten, gioi_tinh } = req.body;
+    logger.info(ten, gioi_tinh);
     const errors = validationResult(req);
     if (errors.isEmpty()) {
-        const { ten } = req.body;
+        const { ten, gioi_tinh } = req.body;
         const id = FIRST_INSERT_ID_SYNTAX + v4();
-        const object = await quyen.findMany({
+        const object = await admin.findMany({
             where: {
-                OR: [{ id: id }, { ten: ten }],
-            },
-            select: {
-                id: true,
-                ten: true,
+                OR: [{ id: id }],
             }
         });
         if (object.length > 0) {
@@ -52,10 +51,11 @@ router.post('/', validate.validateBodyQuyen(), async(req, res) => {
                 msg: ROUTER_NAME + " đã tồn tại trên hệ thống"
             })
         } else {
-            const newObject = await quyen.create({
+            const newObject = await admin.create({
                 data: {
                     id,
-                    ten
+                    ten,
+                    gioi_tinh
                 }
             });
             return res.json(newObject)
@@ -65,7 +65,7 @@ router.post('/', validate.validateBodyQuyen(), async(req, res) => {
     }
 });
 
-router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
+router.put("/:id", validate.validateBodyAdmin(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     const id = req.params.id;
@@ -75,14 +75,15 @@ router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
 
     if (errors.isEmpty()) {
 
-        const { ten } = req.body;
-        const object = await quyen.findUnique({
+        const { ten, gioi_tinh } = req.body;
+        const object = await admin.findUnique({
             where: { id: id }
         });
         if (object) {
-            const updateObject = await quyen.update({
+            // logger.info(ten, gioi_tinh)
+            const updateObject = await admin.update({
                 where: { id: id },
-                data: { ten: ten }
+                data: { ten, gioi_tinh }
             })
             return res.json(updateObject);
         } else {
@@ -103,11 +104,11 @@ router.delete("/:id", async(req, res) => {
         msg: "Id params không được để trống"
     })
 
-    const object = await quyen.findUnique({
+    const object = await admin.findUnique({
         where: { id: id }
     });
     if (object) {
-        const deleteObject = await quyen.delete({
+        const deleteObject = await admin.delete({
             where: { id: id },
         })
         return res.json(deleteObject);
@@ -116,7 +117,6 @@ router.delete("/:id", async(req, res) => {
             msg: ROUTER_NAME + " không tồn tại trên hệ thống"
         })
     }
-
 })
 
 

@@ -7,16 +7,16 @@ const { v4 } = require('uuid');
 const { log4js } = require('../middleware/logging');
 const handleUndefined = require('../utils/utils');
 
-const FIRST_INSERT_ID_SYNTAX = "Q_";
-const ROUTER_NAME = "Quyền";
-const { quyen } = new PrismaClient();
-const logger = log4js.getLogger("quyen");
+const FIRST_INSERT_ID_SYNTAX = "P_";
+const ROUTER_NAME = "Phòng";
+const { phong } = new PrismaClient();
+const logger = log4js.getLogger("phong");
 
 
 router.get('/', async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     let { id, ten } = handleUndefined(req.query, ["id", "ten"]);
-    result = await quyen.findMany({
+    result = await phong.findMany({
         where: { id: { contains: id }, ten: { contains: ten } }
     })
     return res.json(result);
@@ -25,20 +25,20 @@ router.get('/', async(req, res) => {
 router.get("/:id", async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
-    const result = await quyen.findUnique({
+    const result = await phong.findUnique({
         where: { id: id }
     })
     return res.json(result);
 });
 
 
-router.post('/', validate.validateBodyQuyen(), async(req, res) => {
+router.post('/', validate.validateBodyPhong(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     if (errors.isEmpty()) {
         const { ten } = req.body;
         const id = FIRST_INSERT_ID_SYNTAX + v4();
-        const object = await quyen.findMany({
+        const object = await phong.findMany({
             where: {
                 OR: [{ id: id }, { ten: ten }],
             },
@@ -52,7 +52,7 @@ router.post('/', validate.validateBodyQuyen(), async(req, res) => {
                 msg: ROUTER_NAME + " đã tồn tại trên hệ thống"
             })
         } else {
-            const newObject = await quyen.create({
+            const newObject = await phong.create({
                 data: {
                     id,
                     ten
@@ -65,7 +65,7 @@ router.post('/', validate.validateBodyQuyen(), async(req, res) => {
     }
 });
 
-router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
+router.put("/:id", validate.validateBodyPhong(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     const id = req.params.id;
@@ -76,11 +76,11 @@ router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
     if (errors.isEmpty()) {
 
         const { ten } = req.body;
-        const object = await quyen.findUnique({
+        const object = await phong.findUnique({
             where: { id: id }
         });
         if (object) {
-            const updateObject = await quyen.update({
+            const updateObject = await phong.update({
                 where: { id: id },
                 data: { ten: ten }
             })
@@ -103,11 +103,11 @@ router.delete("/:id", async(req, res) => {
         msg: "Id params không được để trống"
     })
 
-    const object = await quyen.findUnique({
+    const object = await phong.findUnique({
         where: { id: id }
     });
     if (object) {
-        const deleteObject = await quyen.delete({
+        const deleteObject = await phong.delete({
             where: { id: id },
         })
         return res.json(deleteObject);

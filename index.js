@@ -21,6 +21,8 @@ app.use("/api/user", require("./routes/user"));
 app.use("/api/auth", require("./routes/auth"));
 app.use("/api/post", require("./routes/post"));
 app.use("/api/quyen", require("./routes/quyen"));
+app.use("/api/phong", require("./routes/phong"));
+app.use("/api/admin", require("./routes/admin"));
 app.use(express.urlencoded({ extended: false }));
 
 

@@ -7,16 +7,10 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
-/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by the Prisma Client.
 model admin {
-  id        String? @db.VarChar(40)
+  id        String  @id @db.VarChar(40)
   ten       String? @db.VarChar(50)
   gioi_tinh String? @db.VarChar(10)
-  fk_user   String? @db.VarChar(40)
-  user      user?   @relation(fields: [fk_user], references: [id])
-
-  @@index([fk_user], name: "admin_user_id_fk")
-  @@ignore
 }
 
 model buoi_hoc {
@@ -36,11 +30,7 @@ model giang_vien {
   id        String     @id @db.VarChar(40)
   ten       String     @db.VarChar(50)
   gioi_tinh String     @db.VarChar(10)
-  fk_user   String?    @db.VarChar(40)
-  user      user?      @relation(fields: [fk_user], references: [id])
   phancong  phancong[]
-
-  @@index([fk_user], name: "giang_vien_user_id_fk")
 }
 
 model lop {
@@ -76,17 +66,19 @@ model phancong {
 }
 
 model phong {
-  id       String     @id @db.VarChar(40)
-  ten      String?    @db.VarChar(10)
-  buoi_hoc buoi_hoc[]
+  id        String     @id @db.VarChar(40)
+  ten       String?    @db.VarChar(10)
+  create_at DateTime   @default(now())
+  update_at DateTime   @updatedAt
+  buoi_hoc  buoi_hoc[]
 }
 
 model quyen {
   id        String   @id @db.VarChar(40)
   ten       String   @unique @db.VarChar(50)
-  user      user[]
   create_at DateTime @default(now())
   update_at DateTime @updatedAt
+  user      user[]
 }
 
 model sinhvien {
@@ -95,25 +87,20 @@ model sinhvien {
   fk_lop    String? @db.VarChar(40)
   gioi_tinh String? @db.VarChar(10)
   email     String? @db.VarChar(50)
-  fk_user   String? @db.VarChar(40)
   lop       lop?    @relation(fields: [fk_lop], references: [id])
-  user      user?   @relation(fields: [fk_user], references: [id])
 
   @@index([fk_lop], name: "sinhvien_lop_id_fk")
-  @@index([fk_user], name: "sinhvien_user_id_fk")
 }
 
 model user {
-  id         String       @id @db.VarChar(40)
-  username   String       @unique @db.VarChar(18)
-  password   String       @unique @db.VarChar(18)
-  fk_quyen   String?      @db.VarChar(40)
-  quyen      quyen?       @relation(fields: [fk_quyen], references: [id])
-  admin      admin[]      @ignore
-  giang_vien giang_vien[]
-  sinhvien   sinhvien[]
-  create_at  DateTime     @default(now())
-  update_at  DateTime     @updatedAt
+  id         String   @id @db.VarChar(40)
+  username   String   @unique @db.VarChar(18)
+  password   String   @unique @db.VarChar(200)
+  fk_quyen   String?  @db.VarChar(40)
+  create_at  DateTime @default(now())
+  update_at  DateTime @updatedAt
+  fk_profile String?  @db.VarChar(40)
+  quyen      quyen?   @relation(fields: [fk_quyen], references: [id])
 
   @@index([fk_quyen], name: "user_quyen_id_fk")
 }

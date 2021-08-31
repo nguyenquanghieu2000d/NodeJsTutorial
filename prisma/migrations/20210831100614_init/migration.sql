@@ -1,11 +1,10 @@
 -- CreateTable
 CREATE TABLE `admin` (
-    `id` VARCHAR(40),
+    `id` VARCHAR(40) NOT NULL,
     `ten` VARCHAR(50),
     `gioi_tinh` VARCHAR(10),
-    `fk_user` VARCHAR(40),
 
-    INDEX `admin_user_id_fk`(`fk_user`)
+    PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- CreateTable
@@ -26,9 +25,7 @@ CREATE TABLE `giang_vien` (
     `id` VARCHAR(40) NOT NULL,
     `ten` VARCHAR(50) NOT NULL,
     `gioi_tinh` VARCHAR(10) NOT NULL,
-    `fk_user` VARCHAR(40),
 
-    INDEX `giang_vien_user_id_fk`(`fk_user`),
     PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -71,6 +68,8 @@ CREATE TABLE `phancong` (
 CREATE TABLE `phong` (
     `id` VARCHAR(40) NOT NULL,
     `ten` VARCHAR(10),
+    `create_at` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+    `update_at` DATETIME(3) NOT NULL,
 
     PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
@@ -93,10 +92,8 @@ CREATE TABLE `sinhvien` (
     `fk_lop` VARCHAR(40),
     `gioi_tinh` VARCHAR(10),
     `email` VARCHAR(50),
-    `fk_user` VARCHAR(40),
 
     INDEX `sinhvien_lop_id_fk`(`fk_lop`),
-    INDEX `sinhvien_user_id_fk`(`fk_user`),
     PRIMARY KEY (`id`)
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
@@ -104,10 +101,11 @@ CREATE TABLE `sinhvien` (
 CREATE TABLE `user` (
     `id` VARCHAR(40) NOT NULL,
     `username` VARCHAR(18) NOT NULL,
-    `password` VARCHAR(18) NOT NULL,
+    `password` VARCHAR(200) NOT NULL,
     `fk_quyen` VARCHAR(40),
     `create_at` DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
     `update_at` DATETIME(3) NOT NULL,
+    `fk_profile` VARCHAR(40),
 
     UNIQUE INDEX `user.username_unique`(`username`),
     UNIQUE INDEX `user.password_unique`(`password`),
@@ -116,16 +114,10 @@ CREATE TABLE `user` (
 ) DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 
 -- AddForeignKey
-ALTER TABLE `admin` ADD FOREIGN KEY (`fk_user`) REFERENCES `user`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
-
--- AddForeignKey
 ALTER TABLE `buoi_hoc` ADD FOREIGN KEY (`fk_phan_cong`) REFERENCES `phancong`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE `buoi_hoc` ADD FOREIGN KEY (`fk_phong`) REFERENCES `phong`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE `giang_vien` ADD FOREIGN KEY (`fk_user`) REFERENCES `user`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE `phancong` ADD FOREIGN KEY (`fk_giangvien`) REFERENCES `giang_vien`(`id`) ON DELETE CASCADE ON UPDATE CASCADE;
@@ -138,9 +130,6 @@ ALTER TABLE `phancong` ADD FOREIGN KEY (`fk_mon_hoc`) REFERENCES `mon_hoc`(`id`)
 
 -- AddForeignKey
 ALTER TABLE `sinhvien` ADD FOREIGN KEY (`fk_lop`) REFERENCES `lop`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
-
--- AddForeignKey
-ALTER TABLE `sinhvien` ADD FOREIGN KEY (`fk_user`) REFERENCES `user`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 -- AddForeignKey
 ALTER TABLE `user` ADD FOREIGN KEY (`fk_quyen`) REFERENCES `quyen`(`id`) ON DELETE SET NULL ON UPDATE CASCADE;
