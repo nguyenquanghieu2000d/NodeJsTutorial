@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { validate } = require('../middleware/validator');
 const { validationResult } = require('express-validator');
 const { PrismaClient } = require('@prisma/client');
-const checkAuth = require('../middleware/checkAuth');
+const {checkAuth} = require('../middleware/checkAuth');
 const { v4 } = require('uuid');
 const { log4js } = require('../middleware/logging');
 const handleUndefined = require('../utils/utils');
@@ -13,7 +13,7 @@ const { quyen } = new PrismaClient();
 const logger = log4js.getLogger("quyen");
 
 
-router.get('/', async(req, res) => {
+router.get('/', checkAuth, async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     let { id, ten } = handleUndefined(req.query, ["id", "ten"]);
     result = await quyen.findMany({
@@ -22,7 +22,7 @@ router.get('/', async(req, res) => {
     return res.json(result);
 });
 
-router.get("/:id", async(req, res) => {
+router.get("/:id", checkAuth, async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
     const result = await quyen.findUnique({
@@ -32,7 +32,7 @@ router.get("/:id", async(req, res) => {
 });
 
 
-router.post('/', validate.validateBodyQuyen(), async(req, res) => {
+router.post('/', checkAuth, validate.validateBodyQuyen(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     if (errors.isEmpty()) {
@@ -65,7 +65,7 @@ router.post('/', validate.validateBodyQuyen(), async(req, res) => {
     }
 });
 
-router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
+router.put("/:id", checkAuth, validate.validateBodyQuyen(), async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     const id = req.params.id;
@@ -96,7 +96,7 @@ router.put("/:id", validate.validateBodyQuyen(), async(req, res) => {
 })
 
 
-router.delete("/:id", async(req, res) => {
+router.delete("/:id", checkAuth, async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
     if (id === undefined) return res.status(400).json({

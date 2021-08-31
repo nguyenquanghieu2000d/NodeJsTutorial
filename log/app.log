@@ -247,3 +247,5 @@
 [2021-08-31T22:05:57.453] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
 [2021-08-31T22:05:57.599] [INFO] admin - Có POST request đến http://localhost:5000/api/admin
 [2021-08-31T22:05:57.600] [INFO] admin - Unknown Khac
+[2021-08-31T22:18:23.203] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-08-31T22:31:17.388] [INFO] admin - Có GET request đến http://localhost:5000/api/admin

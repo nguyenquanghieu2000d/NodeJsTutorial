@@ -16,9 +16,11 @@ let validateRegisterUser = () => {
 
 let validateLogin = () => {
     return [
-        check('email', 'Invalid does not Empty').not().isEmpty(),
-        check('email', 'Invalid email').isEmail(),
-        check('password', 'password more than 6 degits').isLength({ min: 6 })
+        check('username', isEmptyMessage('Username')).not().isEmpty(),
+        check('username', isLengthMessage('Username', 6, 18)).isLength({ min: 6, max: 18 }),
+        check("username", isNotUnicodeMessage("Username")).isAlphanumeric("en-US"),
+        check('password', isEmptyMessage('Password')).not().isEmpty(),
+        check('password', isLengthMessage('Password', 6, 18)).isLength({ min: 6, max: 18 }),
     ];
 }
 

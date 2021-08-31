@@ -2,7 +2,7 @@ const router = require('express').Router();
 const { validate } = require('../middleware/validator');
 const { validationResult } = require('express-validator');
 const { PrismaClient } = require('@prisma/client');
-const checkAuth = require('../middleware/checkAuth');
+const {checkAuth} = require('../middleware/checkAuth');
 const { v4 } = require('uuid');
 const { log4js } = require('../middleware/logging');
 const handleUndefined = require('../utils/utils');
@@ -13,7 +13,7 @@ const { phong } = new PrismaClient();
 const logger = log4js.getLogger("phong");
 
 
-router.get('/', async(req, res) => {
+router.get('/', checkAuth, async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     let { id, ten } = handleUndefined(req.query, ["id", "ten"]);
     result = await phong.findMany({
@@ -49,8 +49,12 @@ router.post('/', validate.validateBodyPhong(), async(req, res) => {
         });
         if (object.length > 0) {
             return res.status(400).json({
-                msg: ROUTER_NAME + " đã tồn tại trên hệ thống"
+                "errors": [{
+                    "msg": ROUTER_NAME + " đã tồn tại trên hệ thống"
+                }]
+
             })
+
         } else {
             const newObject = await phong.create({
                 data: {
@@ -70,7 +74,10 @@ router.put("/:id", validate.validateBodyPhong(), async(req, res) => {
     const errors = validationResult(req);
     const id = req.params.id;
     if (id === undefined) return res.status(400).json({
-        msg: "Id params không được để trống"
+        "errors": [{
+            "msg": "Id params không được để trống"
+        }]
+
     })
 
     if (errors.isEmpty()) {
@@ -87,7 +94,10 @@ router.put("/:id", validate.validateBodyPhong(), async(req, res) => {
             return res.json(updateObject);
         } else {
             return res.status(400).json({
-                msg: ROUTER_NAME + "không tồn tại trên hệ thống"
+                "errors": [{
+                    msg: ROUTER_NAME + "không tồn tại trên hệ thống"
+                }]
+
             })
         }
     } else {
@@ -100,7 +110,10 @@ router.delete("/:id", async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
     if (id === undefined) return res.status(400).json({
-        msg: "Id params không được để trống"
+        "errors": [{
+            "msg": "Id params không được để trống"
+        }]
+
     })
 
     const object = await phong.findUnique({
@@ -113,7 +126,9 @@ router.delete("/:id", async(req, res) => {
         return res.json(deleteObject);
     } else {
         return res.status(400).json({
-            msg: ROUTER_NAME + " không tồn tại trên hệ thống"
+            "errors": [{
+                "msg": ROUTER_NAME + " không tồn tại trên hệ thống"
+            }]
         })
     }
 
