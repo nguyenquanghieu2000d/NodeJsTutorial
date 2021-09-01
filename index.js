@@ -24,6 +24,8 @@ app.use("/api/phong", require("./routes/phong"));
 app.use("/api/admin", require("./routes/admin"));
 app.use("/api/giangvien", require("./routes/giangvien"));
 app.use("/api/lop", require("./routes/lop"));
+app.use("/api/monhoc", require("./routes/monhoc"));
+app.use("/api/sinhvien", require("./routes/sinhvien"));
 app.use(express.urlencoded({ extended: false }));
 
 

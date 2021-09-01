@@ -344,3 +344,31 @@
 [2021-09-01T15:02:31.340] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
 [2021-09-01T15:02:47.183] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
 [2021-09-01T15:03:01.382] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop?ten=D13CNPM8
+[2021-09-01T15:04:04.599] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T15:04:41.403] [INFO] Lop - Có DELETE request đến http://localhost:5000/api/lop/L_3d43562c-a73f-4857-a84d-d1e22527da88
+[2021-09-01T15:04:45.076] [INFO] Lop - Có DELETE request đến http://localhost:5000/api/lop/L_3d43562c-a73f-4857-a84d-d1e22527da88
+[2021-09-01T15:17:36.935] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:18:09.613] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:19:27.143] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:19:30.169] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:19:36.537] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:20:14.001] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:20:57.822] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:21:06.919] [INFO] Môn học - Có GET request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:21:38.690] [INFO] Môn học - Có GET request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T15:22:10.002] [INFO] Lớp - Có PUT request đến http://localhost:5000/api/lop/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T15:22:16.798] [INFO] Môn học - Có PUT request đến http://localhost:5000/api/monhoc/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T15:23:09.965] [INFO] Môn học - Có GET request đến http://localhost:5000/api/monhoc
+[2021-09-01T15:23:34.043] [INFO] Môn học - Có PUT request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T15:25:40.329] [INFO] Môn học - Có PUT request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T15:25:50.582] [INFO] Môn học - Có PUT request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T15:25:54.825] [INFO] Môn học - Có PUT request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T15:26:26.069] [INFO] Môn học - Có DELETE request đến http://localhost:5000/api/monhoc/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T18:16:35.040] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:17:27.078] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:18:19.090] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:19:09.276] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:19:36.026] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:20:04.725] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:21:12.611] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T18:25:37.082] [INFO] Quyền - Có DELETE request đến http://localhost:5000/api/quyen/9237489jfd9iwue

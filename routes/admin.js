@@ -5,7 +5,7 @@ const {PrismaClient} = require('@prisma/client');
 const checkAuth = require('../middleware/checkAuth');
 const {v4} = require('uuid');
 const {log4js} = require('../middleware/logging');
-const handleUndefined = require('../utils/utils');
+const {handleUndefined, errorResponse} = require('../utils/utils');
 
 const FIRST_INSERT_ID_SYNTAX = "AD_";
 const ROUTER_NAME = "Admin";
@@ -46,9 +46,7 @@ router.post('/', validate.validateBodyAdmin(), async (req, res) => {
             }
         });
         if (object.length > 0) {
-            return res.status(400).json({
-                msg: ROUTER_NAME + " đã tồn tại trên hệ thống"
-            })
+            return res.status(400).json(errorResponse([[id, ROUTER_NAME + " đã tồn tại trên hệ thống", "id", "body"]]))
         } else {
             const newObject = await admin.create({
                 data: {
@@ -68,10 +66,8 @@ router.put("/:id", validate.validateBodyAdmin(), async (req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const errors = validationResult(req);
     const id = req.params.id;
-    if (id === undefined) return res.status(400).json({
-        msg: "Id params không được để trống"
-    })
-
+    if (id === undefined)
+        return res.status(400).json(errorResponse([[id, "Id params không được để trống", "id", "body"]]));
     if (errors.isEmpty()) {
 
         const {ten, gioi_tinh} = req.body;
@@ -86,9 +82,7 @@ router.put("/:id", validate.validateBodyAdmin(), async (req, res) => {
             })
             return res.json(updateObject);
         } else {
-            return res.status(400).json({
-                msg: ROUTER_NAME + "không tồn tại trên hệ thống"
-            })
+            return res.status(400).json(errorResponse([[id, ROUTER_NAME + " không tồn tại trên hệ thống", "id", "body"]]))
         }
     } else {
         return res.status(422).json({error: errors.array()});
@@ -99,10 +93,8 @@ router.put("/:id", validate.validateBodyAdmin(), async (req, res) => {
 router.delete("/:id", async (req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     const id = req.params.id;
-    if (id === undefined) return res.status(400).json({
-        msg: "Id params không được để trống"
-    })
-
+    if (id === undefined)
+        return res.status(400).json(errorResponse([[id, "Id params không được để trống", "id", "body"]]));
     const object = await admin.findUnique({
         where: {id: id}
     });
@@ -112,9 +104,7 @@ router.delete("/:id", async (req, res) => {
         })
         return res.json(deleteObject);
     } else {
-        return res.status(400).json({
-            msg: ROUTER_NAME + " không tồn tại trên hệ thống"
-        })
+        return res.status(400).json(errorResponse([[id, ROUTER_NAME + " không tồn tại trên hệ thống", "id", "body"]]))
     }
 })
 

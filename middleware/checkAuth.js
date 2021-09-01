@@ -1,11 +1,8 @@
 const JWT = require('jsonwebtoken');
-
 const secretKey = "skdfmklsdmnfklsmdfksnmdfkskdfmklsdmnfklsmdfksnmdfkskldhgfusdnikoghsjudngoierjtnienrgnikomdfignjidfgjdnsfgnokidsfngkjosndjkgfnsjdgnikjs";
-
 
 const checkAuth = async(req, res, next) => {
     const token = req.headers['x-auth-token'];
-    console.log(token);
     if (!token) {
         return res.json({
             "errors": [{
@@ -13,7 +10,6 @@ const checkAuth = async(req, res, next) => {
             }]
         })
     }
-
     try {
         let user = await JWT.verify(token, secretKey);
         next();

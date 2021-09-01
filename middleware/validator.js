@@ -37,27 +37,27 @@ let validateUser = () => {
 
 
 let validateBodyQuyen = () => {
-    const tenQuyen = "Tên quyền";
+    const ten = "Tên quyền";
     return [
-        check('ten', isEmptyMessage(tenQuyen)).not().isEmpty(),
-        check('ten', isLengthMessage(tenQuyen, 0, 50)).isLength({min: 0, max: 50})
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50})
     ]
 }
 
 let validateBodyPhong = () => {
-    const tenPhong = "Tên quyền";
+    const ten = "Tên quyền";
     return [
-        check('ten', isEmptyMessage(tenPhong)).not().isEmpty(),
-        check('ten', isLengthMessage(tenPhong, 0, 50)).isLength({min: 0, max: 50})
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50})
     ]
 }
 
 let validateBodyAdmin = () => {
-    const tenAdmin = "Tên admin";
+    const ten = "Tên admin";
     const gioiTinh = "Giới tính";
     return [
-        check('ten', isEmptyMessage(tenAdmin)).not().isEmpty(),
-        check('ten', isLengthMessage(tenAdmin, 0, 50)).isLength({min: 0, max: 50}),
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50}),
         check('gioi_tinh', isEmptyMessage(gioiTinh)).not().isEmpty(),
         check('gioi_tinh', isLengthMessage(gioiTinh, 0, 50)).isLength({min: 0, max: 10}),
         check("gioi_tinh", 'Hãy chọn giới tính là "Nam", "Nu" hoặc "Khac"').isIn(['Nam', 'Nu', 'Khac'])
@@ -65,11 +65,11 @@ let validateBodyAdmin = () => {
 }
 
 let validateBodyGiangVien = () => {
-    const tenAdmin = "Tên giảng viên";
+    const ten = "Tên giảng viên";
     const gioiTinh = "Giới tính";
     return [
-        check('ten', isEmptyMessage(tenAdmin)).not().isEmpty(),
-        check('ten', isLengthMessage(tenAdmin, 0, 50)).isLength({min: 0, max: 50}),
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50}),
         check('gioi_tinh', isEmptyMessage(gioiTinh)).not().isEmpty(),
         check('gioi_tinh', isLengthMessage(gioiTinh, 0, 50)).isLength({min: 0, max: 10}),
         check("gioi_tinh", 'Hãy chọn giới tính là "Nam", "Nu" hoặc "Khac"').isIn(['Nam', 'Nu', 'Khac'])
@@ -77,22 +77,50 @@ let validateBodyGiangVien = () => {
 }
 
 let validateBodyLop = () => {
-    const tenLop = "Tên lớp";
+    const ten = "Tên lớp";
     const namHoc = "Năm học";
     const ki = "Kỳ học"
 
     return [
-        check('ten', isEmptyMessage(tenLop)).not().isEmpty(),
-        check('ten', isLengthMessage(tenLop, 0, 50)).isLength({min: 0, max: 50}),
-        check('ten', isNotUnicodeMessage(tenLop, 0, 50)).isAlphanumeric(),
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50}),
+        check('ten', isNotUnicodeMessage(ten, 0, 50)).isAlphanumeric(),
         check('nam_hoc', isLengthIntMessage(namHoc, 1900, 2030)).not().isString(),
         check('nam_hoc', isLengthIntMessage(namHoc, 1900, 2030)).isInt({min: 1900, max: 2030}),
         check('nam_hoc', isEmptyMessage(namHoc)).not().isEmpty(),
-        check('ki', isLengthIntMessage(namHoc, 1900, 2030)).not().isString(),
+        check('ki', isLengthIntMessage(ki, 1900, 2030)).not().isString(),
         check('ki', isLengthIntMessage(ki, 1, 8)).isInt({min: 1, max: 8}),
         check('ki', isEmptyMessage(ki)).not().isEmpty(),
     ]
 }
+
+let validateBodyMonHoc = () => {
+    const ten = "Tên môn học";
+    const stc = "Số tín chỉ"
+
+    return [
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50}),
+        check('stc', isLengthIntMessage(stc, 1900, 2030)).not().isString(),
+        check('stc', isLengthIntMessage(stc, 1, 4)).isInt({min: 1, max: 8}),
+        check('stc', isEmptyMessage(stc)).not().isEmpty(),
+    ]
+}
+
+let validateBodySinhVien = () => {
+    const ten = "Tên sinh viên";
+    const gioiTinh = "Giới tính";
+    const email = "Email";
+    return [
+        check('ten', isEmptyMessage(ten)).not().isEmpty(),
+        check('ten', isLengthMessage(ten, 0, 50)).isLength({min: 0, max: 50}),
+        check('gioi_tinh', isEmptyMessage(gioiTinh)).not().isEmpty(),
+        check('gioi_tinh', isLengthMessage(gioiTinh, 0, 50)).isLength({min: 0, max: 10}),
+        check("gioi_tinh", 'Hãy chọn giới tính là "Nam", "Nu" hoặc "Khac"').isIn(['Nam', 'Nu', 'Khac']),
+        check("email", 'Hãy nhập đúng định dạng email nhé').isEmail()
+    ]
+}
+
 
 let validate = {
     validateRegisterUser: validateRegisterUser,
@@ -102,7 +130,9 @@ let validate = {
     validateBodyPhong: validateBodyPhong,
     validateBodyAdmin: validateBodyAdmin,
     validateBodyGiangVien: validateBodyGiangVien,
-    validateBodyLop: validateBodyLop
+    validateBodyLop: validateBodyLop,
+    validateBodyMonHoc: validateBodyMonHoc,
+    validateBodySinhVien: validateBodySinhVien
 };
 
 module.exports = {validate};

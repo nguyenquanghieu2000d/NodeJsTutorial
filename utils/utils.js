@@ -11,4 +11,19 @@ const handleUndefined = (object, value) => {
     return obj;
 }
 
-module.exports = handleUndefined;
+const errorResponse = (error) => {
+    console.log(error)
+    let response = {};
+    response.errors = []
+    error.forEach(i => {
+        response.errors.push({
+            "value": i[0],
+            "msg": i[1],
+            "param": i[2],
+            "location": i[3],
+        })
+    });
+    return response;
+}
+
+module.exports = {handleUndefined, errorResponse};
