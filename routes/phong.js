@@ -10,13 +10,13 @@ const handleUndefined = require('../utils/utils');
 const FIRST_INSERT_ID_SYNTAX = "P_";
 const ROUTER_NAME = "Phòng";
 const { phong } = new PrismaClient();
-const logger = log4js.getLogger("phong");
+const logger = log4js.getLogger(ROUTER_NAME);
 
 
 router.get('/', checkAuth, async(req, res) => {
     logger.info('Có ' + req.method + ' request đến ' + req.protocol + '://' + req.get('host') + req.originalUrl);
     let { id, ten } = handleUndefined(req.query, ["id", "ten"]);
-    result = await phong.findMany({
+    const result = await phong.findMany({
         where: { id: { contains: id }, ten: { contains: ten } }
     })
     return res.json(result);

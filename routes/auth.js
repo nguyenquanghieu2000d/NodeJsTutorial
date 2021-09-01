@@ -8,7 +8,6 @@ const handleUndefined = require('../utils/utils');
 const {PrismaClient} = require('@prisma/client');
 const bcrypt = require('bcrypt')
 const JWT = require('jsonwebtoken')
-const AdminApi = require('../api/AdminApi')
 const {secretKey} = require('../middleware/checkAuth');
 
 const FIRST_INSERT_ID_SYNTAX = "U_";

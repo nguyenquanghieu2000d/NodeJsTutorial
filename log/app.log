@@ -249,3 +249,98 @@
 [2021-08-31T22:05:57.600] [INFO] admin - Unknown Khac
 [2021-08-31T22:18:23.203] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
 [2021-08-31T22:31:17.388] [INFO] admin - Có GET request đến http://localhost:5000/api/admin
+[2021-09-01T11:19:53.109] [INFO] quyen - Có GET request đến http://localhost:5000/api/quyen/
+[2021-09-01T11:20:14.262] [INFO] quyen - Có GET request đến http://localhost:5000/api/quyen/Q_44d8ee8e-0475-43cc-a6da-a2596ee8639e
+[2021-09-01T11:21:21.385] [INFO] quyen - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T11:21:43.302] [INFO] quyen - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T11:51:01.448] [INFO] quyen - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T11:51:06.306] [INFO] quyen - Có GET request đến http://localhost:5000/api/quyen/Q_44d8ee8e-0475-43cc-a6da-a2596ee8639e
+[2021-09-01T11:51:10.029] [INFO] quyen - Có GET request đến http://localhost:5000/api/quyen/
+[2021-09-01T11:54:50.351] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:54:58.541] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:55:37.579] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:56:20.453] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:56:59.580] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:57:14.827] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:57:32.597] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:57:45.894] [INFO] quyen - Có GET request đến http://localhost:5000/api/user/quanghieu
+[2021-09-01T11:57:56.863] [INFO] quyen - Có GET request đến http://localhost:5000/api/user/
+[2021-09-01T11:59:33.919] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T11:59:53.991] [INFO] quyen - Có GET request đến http://localhost:5000/api/user
+[2021-09-01T12:00:30.727] [INFO] quyen - Có GET request đến http://localhost:5000/api/user?username=quanghieu
+[2021-09-01T13:13:18.945] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:13:18.947] [INFO] giangvien - undefined undefined
+[2021-09-01T13:14:08.522] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:14:08.524] [INFO] giangvien - undefined undefined
+[2021-09-01T13:14:21.511] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:14:21.513] [INFO] giangvien - undefined undefined
+[2021-09-01T13:15:02.086] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:15:02.088] [INFO] giangvien - undefined undefined
+[2021-09-01T13:15:20.246] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:15:20.247] [INFO] giangvien - Ngô Thị Huệ undefined
+[2021-09-01T13:15:34.112] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:15:34.112] [INFO] giangvien - Ngô Thị Huệ N
+[2021-09-01T13:15:38.552] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:15:38.552] [INFO] giangvien - Ngô Thị Huệ Nu
+[2021-09-01T13:17:01.466] [INFO] giangvien - Có PUT request đến http://localhost:5000/api/giangvien/GV_96ad4b65-9a56-4280-a9ed-7c1d9e11418d
+[2021-09-01T13:17:05.666] [INFO] giangvien - Có PUT request đến http://localhost:5000/api/giangvien/GV_96ad4b65-9a56-4280-a9ed-7c1d9e11418d
+[2021-09-01T13:17:16.253] [INFO] giangvien - Có PUT request đến http://localhost:5000/api/giangvien/GV_96ad4b65-9a56-4280-a9ed-7c1d9e11418d
+[2021-09-01T13:18:11.513] [INFO] giangvien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_96ad4b65-9a56-4280-a9ed-7c1d9e11418d
+[2021-09-01T13:18:18.665] [INFO] giangvien - Có GET request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:18:21.103] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T13:18:21.104] [INFO] giangvien - Ngô Thị Huệ Nu
+[2021-09-01T13:18:21.802] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T13:18:21.802] [INFO] giangvien - Ngô Thị Huệ Nu
+[2021-09-01T13:18:22.497] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T13:18:22.498] [INFO] giangvien - Ngô Thị Huệ Nu
+[2021-09-01T13:18:22.966] [INFO] giangvien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T13:18:22.966] [INFO] giangvien - Ngô Thị Huệ Nu
+[2021-09-01T13:18:25.794] [INFO] giangvien - Có GET request đến http://localhost:5000/api/giangvien
+[2021-09-01T13:18:50.889] [INFO] giangvien - Có GET request đến http://localhost:5000/api/giangvien/GV_00343205-5035-4ce9-99e9-5bde9e812b64
+[2021-09-01T13:18:53.510] [INFO] giangvien - Có GET request đến http://localhost:5000/api/giangvien/GV_00343205-5035-4ce9-99e9-5bde9e812b6
+[2021-09-01T13:18:55.600] [INFO] giangvien - Có GET request đến http://localhost:5000/api/giangvien/GV_00343205-5035-4ce9-99e9-5bde9e812b64
+[2021-09-01T13:41:51.602] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:42:37.662] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:42:43.648] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:42:51.434] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:43:11.437] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:43:24.573] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:43:34.909] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:43:48.260] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:43:53.190] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:48:46.406] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:48:50.020] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:48:55.138] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:00.671] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:15.463] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:17.259] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:17.848] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:18.202] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:20.451] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:25.360] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T13:49:41.183] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T13:50:26.301] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T13:51:03.490] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T13:53:40.081] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:28:59.559] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:57:13.444] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T14:57:27.412] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T14:57:47.099] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T14:58:12.889] [INFO] Lop - Có PUT request đến http://localhost:5000/api/lop/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T14:58:16.563] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:58:27.408] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:58:42.690] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:58:46.194] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T14:58:58.364] [INFO] Giang_vien - Có GET request đến http://localhost:5000/api/giangvien/L_574ec0b7-6509-4fc0-b123-74b616af2481
+[2021-09-01T14:59:03.511] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop/L_574ec0b7-6509-4fc0-b123-74b616af2481
+[2021-09-01T14:59:05.045] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop/L_574ec0b7-6509-4fc0-b123-74b616af2481
+[2021-09-01T14:59:31.296] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop/L_574ec0b7-6509-4fc0-b123-74b616af2481
+[2021-09-01T14:59:58.353] [INFO] Lop - Có PUT request đến http://localhost:5000/api/lop/L_cfb5e01d-31b1-4eac-bfc9-704f5ada762b
+[2021-09-01T15:00:05.867] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:00:08.958] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:00:11.483] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:00:15.376] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:00:19.283] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:02:31.340] [INFO] Lop - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T15:02:47.183] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T15:03:01.382] [INFO] Lop - Có GET request đến http://localhost:5000/api/lop?ten=D13CNPM8
