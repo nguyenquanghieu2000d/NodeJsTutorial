@@ -12,7 +12,6 @@ const handleUndefined = (object, value) => {
 }
 
 const errorResponse = (error) => {
-    console.log(error)
     let response = {};
     response.errors = []
     error.forEach(i => {

@@ -1,19 +1,17 @@
 // /api/theloais
 
 const axiosClient = require('./axiosClient');
-
-
-const AdminApi = {
+const SinhVienApi = {
     post: (info) => {
-        const url = '/api/admin';
-        return axiosClient.post(url, info);
+        const url = '/api/sinhvien';
+        return axiosClient.post(url, info)
     },
     put: (info) => {
-        const url = '/api/admin/' + info.id;
-        return axiosClient.put(url, info);
+        const url = '/api/sinhvien/' + info.id;
+        return axiosClient.put(url, info)
     },
     delete:(id) => {
-        const url = '/api/admin/' + id;
+        const url = '/api/sinhvien/' + id;
         return axiosClient.delete(url);
     }
     // getAllUsers: () => {
@@ -26,4 +24,4 @@ const AdminApi = {
     // }
 }
 
-module.exports = AdminApi;
+module.exports = SinhVienApi;

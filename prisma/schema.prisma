@@ -11,6 +11,7 @@ model admin {
   id        String  @id @db.VarChar(40)
   ten       String? @db.VarChar(50)
   gioi_tinh String? @db.VarChar(10)
+  status    Int?    @default(1) @db.TinyInt
 }
 
 model buoi_hoc {
@@ -19,6 +20,8 @@ model buoi_hoc {
   fk_phong          String   @db.VarChar(40)
   thoi_gian_bat_dau DateTime @db.DateTime(0)
   so_tiet           Int
+  create_at         DateTime @default(now())
+  update_at         DateTime @updatedAt
   phancong          phancong @relation(fields: [fk_phan_cong], references: [id])
   phong             phong    @relation(fields: [fk_phong], references: [id])
 
@@ -30,22 +33,34 @@ model giang_vien {
   id        String     @id @db.VarChar(40)
   ten       String     @db.VarChar(50)
   gioi_tinh String     @db.VarChar(10)
+  status    Int?       @default(1) @db.TinyInt
+  lop       lop[]
   phancong  phancong[]
 }
 
 model lop {
-  id       String     @id @db.VarChar(40)
-  ten      String     @unique @db.VarChar(50)
-  nam_hoc  Int
-  ki       Int
-  phancong phancong[]
-  sinhvien sinhvien[]
+  id            String      @id @db.VarChar(40)
+  ten           String      @unique @db.VarChar(50)
+  nam_hoc       Int
+  ki            Int
+  create_at     DateTime    @default(now())
+  update_at     DateTime    @updatedAt
+  fk_giang_vien String?     @db.VarChar(40)
+  status        Int         @default(1) @db.TinyInt
+  giang_vien    giang_vien? @relation(fields: [fk_giang_vien], references: [id])
+  phancong      phancong[]
+  sinhvien      sinhvien[]
+
+  @@index([fk_giang_vien], name: "lop_giang_vien_id_fk")
 }
 
 model mon_hoc {
   id       String     @id @db.VarChar(40)
   ten      String     @unique @db.VarChar(50)
   stc      Int
+  status   Int        @default(1) @db.TinyInt
+  create_at DateTime   @default(now())
+  update_at DateTime   @updatedAt
   phancong phancong[]
 }
 
@@ -70,6 +85,7 @@ model phong {
   ten       String?    @db.VarChar(10)
   create_at DateTime   @default(now())
   update_at DateTime   @updatedAt
+  status    Int        @default(1) @db.TinyInt
   buoi_hoc  buoi_hoc[]
 }
 
@@ -78,6 +94,7 @@ model quyen {
   ten       String   @unique @db.VarChar(50)
   create_at DateTime @default(now())
   update_at DateTime @updatedAt
+  status    Int      @default(1) @db.TinyInt
   user      user[]
 }
 
@@ -86,7 +103,8 @@ model sinhvien {
   ten       String  @db.VarChar(100)
   fk_lop    String? @db.VarChar(40)
   gioi_tinh String? @db.VarChar(10)
-  email     String? @db.VarChar(50)
+  email     String? @unique @db.VarChar(50)
+  status    Int     @default(1) @db.TinyInt
   lop       lop?    @relation(fields: [fk_lop], references: [id])
 
   @@index([fk_lop], name: "sinhvien_lop_id_fk")
@@ -99,7 +117,8 @@ model user {
   fk_quyen   String?  @db.VarChar(40)
   create_at  DateTime @default(now())
   update_at  DateTime @updatedAt
-  fk_profile String?  @db.VarChar(40)
+  fk_profile String?  @unique @db.VarChar(40)
+  status     Int      @default(1) @db.TinyInt
   quyen      quyen?   @relation(fields: [fk_quyen], references: [id])
 
   @@index([fk_quyen], name: "user_quyen_id_fk")

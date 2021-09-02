@@ -372,3 +372,2792 @@
 [2021-09-01T18:20:04.725] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
 [2021-09-01T18:21:12.611] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
 [2021-09-01T18:25:37.082] [INFO] Quyền - Có DELETE request đến http://localhost:5000/api/quyen/9237489jfd9iwue
+[2021-09-01T18:48:09.454] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:48:45.198] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:48:55.163] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:49:55.545] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:50:08.959] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:50:12.832] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:50:18.207] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:51:33.289] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:52:02.451] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:52:04.261] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:52:21.685] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:53:01.033] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:53:25.954] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T18:53:39.599] [INFO] Lớp - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T18:53:58.852] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:09:58.455] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:10:07.154] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:10:13.852] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:19:57.471] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:23:07.171] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/MH_252b9337-9214-44ca-b3e6-b97c07553b84
+[2021-09-01T20:23:35.083] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:23:48.913] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/SV_2d863c97-7a74-429c-84f9-772d4dbebbd1
+[2021-09-01T20:23:53.974] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/SV_2d863c97-7a74-429c-84f9-772d4dbebbd1
+[2021-09-01T20:24:00.119] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/SV_2d863c97-7a74-429c-84f9-772d4dbebbd1
+[2021-09-01T20:43:40.512] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:45:20.645] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:04.349] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:15.840] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:26.411] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:31.617] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:35.732] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/
+[2021-09-01T20:49:45.189] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:49:48.599] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:49:51.081] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:49:53.713] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:49:56.987] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:49:59.950] [INFO] Phòng - Có POST request đến http://localhost:5000/api/phong/
+[2021-09-01T20:50:11.173] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin/
+[2021-09-01T20:50:11.173] [INFO] Admin - Nguyễn Quang Hiếu Nam
+[2021-09-01T20:50:11.915] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin/
+[2021-09-01T20:50:11.915] [INFO] Admin - Nguyễn Quang Hiếu Nam
+[2021-09-01T20:50:21.972] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin/
+[2021-09-01T20:50:21.973] [INFO] Admin - Ngô Thị Huệ Nam
+[2021-09-01T20:51:45.272] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:51:52.980] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:51:55.529] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:51:57.904] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:52:01.364] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:52:04.189] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-01T20:53:07.872] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T20:53:07.873] [INFO] Giang_vien - Ngô Thị Huệ Nu
+[2021-09-01T20:53:14.474] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-01T20:53:14.474] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T20:53:17.131] [INFO] Giang_vien - Có GET request đến http://localhost:5000/api/giangvien
+[2021-09-01T20:54:16.217] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:32.174] [INFO] Lớp - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T20:54:45.151] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:48.074] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:48.606] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:49.652] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:52.182] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:54:54.875] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:55:06.656] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:55:19.174] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien/SV_9cf2e2ef-a414-4fc3-abdb-b034367a089c
+[2021-09-01T20:55:27.053] [INFO] Sinh viên - Có DELETE request đến http://localhost:5000/api/sinhvien/SV_9cf2e2ef-a414-4fc3-abdb-b034367a089c
+[2021-09-01T20:55:35.774] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:55:43.892] [INFO] Sinh viên - Có POST request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:56:23.463] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/SV_2d863c97-7a74-429c-84f9-772d4dbebbd1
+[2021-09-01T20:56:44.145] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:56:56.527] [INFO] Sinh viên - Có PUT request đến http://localhost:5000/api/sinhvien/SV_a605eb63-172c-42ed-b42d-ac36e8f309b9
+[2021-09-01T20:57:12.899] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T20:59:12.892] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T21:00:29.601] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T21:10:01.583] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien
+[2021-09-01T21:10:20.636] [INFO] Lớp - Có GET request đến http://localhost:5000/api/lop
+[2021-09-01T21:10:43.909] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien/SV_9cf2e2ef-a414-4fc3-abdb-b034367a089c
+[2021-09-01T21:10:54.719] [INFO] Sinh viên - Có GET request đến http://localhost:5000/api/sinhvien/SV_a605eb63-172c-42ed-b42d-ac36e8f309b9
+[2021-09-01T21:11:05.360] [INFO] Môn học - Có GET request đến http://localhost:5000/api/monhoc
+[2021-09-01T21:11:11.138] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T21:11:17.685] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T21:11:21.451] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T21:11:28.482] [INFO] Môn học - Có POST request đến http://localhost:5000/api/monhoc
+[2021-09-01T21:22:01.220] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:22:25.212] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:23:44.663] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:24:11.685] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:29:59.479] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:41:50.684] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:41:50.720] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T21:41:50.720] [INFO] Giang_vien - undefined undefined
+[2021-09-01T21:42:57.992] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:42:58.018] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T21:42:58.018] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T21:43:22.270] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:43:22.291] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T21:43:22.291] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T21:47:11.790] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:56:40.446] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:56:40.468] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T21:56:40.468] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T21:58:28.499] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T21:58:28.596] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T21:58:28.596] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T21:59:25.851] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-01T21:59:25.865] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-01T21:59:25.865] [INFO] Admin - Unknown Khac
+[2021-09-01T22:00:00.334] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:07:52.704] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:07:55.684] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:07:55.708] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T22:07:55.709] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T22:08:26.728] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:08:26.741] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T22:08:26.741] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T22:11:01.897] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:12:04.021] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/
+[2021-09-01T22:12:35.831] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:12:35.923] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T22:12:35.923] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-01T22:16:50.174] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:16:58.452] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-01T22:16:58.530] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-01T22:16:58.534] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T10:45:17.380] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:45:22.828] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:45:22.859] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:45:22.859] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:46:42.952] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:46:43.077] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:46:43.078] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:48:53.370] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:48:53.552] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:48:53.552] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:48:53.553] [INFO] Giang_vien - Giang_vienLỗi
+[2021-09-02T10:49:47.502] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:49:47.606] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:49:47.607] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:49:47.607] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:49:47.613] [INFO] User - User Lỗi
+[2021-09-02T10:50:18.589] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:50:18.691] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:50:18.691] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:50:18.691] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:50:18.696] [INFO] User - User Lỗi
+[2021-09-02T10:50:18.696] [INFO] User - undefined
+[2021-09-02T10:50:37.959] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:50:38.046] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:50:38.047] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:50:38.047] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:50:38.051] [INFO] User - User Lỗi
+[2021-09-02T10:50:38.051] [INFO] User - Error: Request failed with status code 422
+    at createError (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\adapters\http.js:260:11)
+    at IncomingMessage.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  config: {
+    url: '/api/giangvien',
+    method: 'post',
+    data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/0.21.1',
+      'Content-Length': 219
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus]
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 41,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Content-Length: 219\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/giangvien',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 422,
+      statusMessage: 'Unprocessable Entity',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/giangvien',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 219,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/giangvien',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 422,
+    statusText: 'Unprocessable Entity',
+    headers: {
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '218',
+      etag: 'W/"da-yHB0V+oRLr7T5WnrtOjH0Sk9LcE"',
+      date: 'Thu, 02 Sep 2021 03:50:38 GMT',
+      connection: 'close'
+    },
+    config: {
+      url: '/api/giangvien',
+      method: 'post',
+      data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+      headers: [Object],
+      baseURL: 'http://localhost:5000',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      paramsSerializer: [Function: paramsSerializer],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/0.21.1\r\n' +
+        'Content-Length: 219\r\n' +
+        'Host: localhost:5000\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/giangvien',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: { error: [Array] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[2021-09-02T10:51:45.545] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:51:45.622] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:51:45.623] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:51:45.624] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:51:45.629] [INFO] User - User Lỗi
+[2021-09-02T10:51:45.629] [INFO] User - undefined
+[2021-09-02T10:52:23.539] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:52:23.604] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:52:23.604] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:52:23.605] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:52:23.609] [INFO] User - User Lỗi
+[2021-09-02T10:52:23.609] [INFO] User - undefined
+[2021-09-02T10:52:29.539] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:52:29.704] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:52:29.705] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:52:29.705] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:52:29.709] [INFO] User - User Lỗi
+[2021-09-02T10:52:29.709] [INFO] User - Error: Request failed with status code 422
+    at createError (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\adapters\http.js:260:11)
+    at IncomingMessage.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  config: {
+    url: '/api/giangvien',
+    method: 'post',
+    data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/0.21.1',
+      'Content-Length': 219
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus]
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 41,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Content-Length: 219\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/giangvien',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 422,
+      statusMessage: 'Unprocessable Entity',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/giangvien',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 219,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/giangvien',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 422,
+    statusText: 'Unprocessable Entity',
+    headers: {
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '218',
+      etag: 'W/"da-yHB0V+oRLr7T5WnrtOjH0Sk9LcE"',
+      date: 'Thu, 02 Sep 2021 03:52:29 GMT',
+      connection: 'close'
+    },
+    config: {
+      url: '/api/giangvien',
+      method: 'post',
+      data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+      headers: [Object],
+      baseURL: 'http://localhost:5000',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      paramsSerializer: [Function: paramsSerializer],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/0.21.1\r\n' +
+        'Content-Length: 219\r\n' +
+        'Host: localhost:5000\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/giangvien',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: { error: [Array] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[2021-09-02T10:52:40.432] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:52:40.651] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:52:40.653] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:52:40.653] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:52:40.659] [INFO] User - User Lỗi
+[2021-09-02T10:52:40.659] [INFO] User - undefined
+[2021-09-02T10:53:08.632] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:53:08.711] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:53:08.712] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:53:08.712] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:53:08.716] [INFO] User - User Lỗi
+[2021-09-02T10:53:08.716] [INFO] User - Error: Request failed with status code 422
+    at createError (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\adapters\http.js:260:11)
+    at IncomingMessage.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  config: {
+    url: '/api/giangvien',
+    method: 'post',
+    data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/0.21.1',
+      'Content-Length': 219
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus]
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 41,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Content-Length: 219\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/giangvien',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 422,
+      statusMessage: 'Unprocessable Entity',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/giangvien',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 219,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/giangvien',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 422,
+    statusText: 'Unprocessable Entity',
+    headers: {
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '218',
+      etag: 'W/"da-yHB0V+oRLr7T5WnrtOjH0Sk9LcE"',
+      date: 'Thu, 02 Sep 2021 03:53:08 GMT',
+      connection: 'close'
+    },
+    config: {
+      url: '/api/giangvien',
+      method: 'post',
+      data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+      headers: [Object],
+      baseURL: 'http://localhost:5000',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      paramsSerializer: [Function: paramsSerializer],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus]
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/0.21.1\r\n' +
+        'Content-Length: 219\r\n' +
+        'Host: localhost:5000\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'POST',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/giangvien',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: { error: [Array] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[2021-09-02T10:53:30.073] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:53:30.241] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:53:30.241] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:53:30.242] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:53:30.246] [INFO] User - User Lỗi
+[2021-09-02T10:53:30.247] [INFO] User - {
+  status: 422,
+  statusText: 'Unprocessable Entity',
+  headers: {
+    'x-powered-by': 'Express',
+    'access-control-allow-origin': '*',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '218',
+    etag: 'W/"da-yHB0V+oRLr7T5WnrtOjH0Sk9LcE"',
+    date: 'Thu, 02 Sep 2021 03:53:30 GMT',
+    connection: 'close'
+  },
+  config: {
+    url: '/api/giangvien',
+    method: 'post',
+    data: '{"username":"quanghieuk31","password":"quanghieu","loai":"GV","fk_quyen":"Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd","ten":"Nguyễn Thị Huệ                                                           ","gioi_tinh":"Nu"}',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/0.21.1',
+      'Content-Length': 219
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus]
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 33,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'POST /api/giangvien HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Content-Length: 219\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'POST',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/giangvien',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 422,
+      statusMessage: 'Unprocessable Entity',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/giangvien',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 219,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/giangvien',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      'content-length': [Array],
+      host: [Array]
+    }
+  },
+  data: { error: [ [Object] ] }
+}
+[2021-09-02T10:53:43.229] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:53:43.328] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:53:43.328] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:53:43.329] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:53:43.332] [INFO] User - User Lỗi
+[2021-09-02T10:53:43.333] [INFO] User - {
+  error: [
+    {
+      value: 'Nguyễn Thị Huệ                                                           ',
+      msg: 'Invalid.  Tên giảng viên trong khoảng từ 0 cho đến 50 ký tự!',
+      param: 'ten',
+      location: 'body'
+    }
+  ]
+}
+[2021-09-02T10:53:55.308] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:53:55.487] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:53:55.488] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:53:55.489] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:53:55.503] [INFO] User - User Lỗi
+[2021-09-02T10:54:38.010] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:54:38.084] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:54:38.084] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu
+[2021-09-02T10:54:38.085] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:54:38.088] [INFO] User - User Lỗi
+[2021-09-02T10:54:44.491] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:54:44.509] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:54:44.510] [INFO] Giang_vien - Nguyễn Thị Huệ                                                            Nu 
+[2021-09-02T10:54:44.510] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T10:54:44.511] [INFO] User - User Lỗi
+[2021-09-02T10:54:52.861] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T10:54:52.903] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T10:54:52.904] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T10:54:52.993] [INFO] User - {
+  id: 'GV_d66c1cd1-cac9-4ed2-898e-013a81b18730',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu'
+}
+[2021-09-02T11:08:37.950] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:08:38.030] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/undefined
+[2021-09-02T11:09:22.285] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:09:22.302] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/undefined
+[2021-09-02T11:10:12.650] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:10:12.917] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:10:24.787] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:10:24.796] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:10:34.269] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:10:34.369] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:10:40.217] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:10:40.226] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:11:03.606] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:11:03.860] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:11:08.313] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:11:11.807] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:11:14.466] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:11:14.474] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:11:22.076] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:11:22.088] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:12:34.338] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T11:12:54.396] [INFO] User - Có GET request đến http://localhost:5000/api/user?username=quanghieuk1
+[2021-09-02T11:13:02.780] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T11:38:27.559] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:39:14.855] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:39:14.904] [INFO] User - undefined
+[2021-09-02T11:39:22.141] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:39:22.189] [INFO] User - TypeError: EntityApi.delete is not a function
+    at C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:147:46
+[2021-09-02T11:39:50.308] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:39:50.463] [INFO] User - GV
+[2021-09-02T11:39:50.464] [INFO] User - TypeError: EntityApi.delete is not a function
+    at C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:148:46
+[2021-09-02T11:40:23.385] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:40:23.443] [INFO] User - GV
+[2021-09-02T11:40:23.460] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:40:23.478] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:49
+
+  147 try {
+  148     const response = EntityApi.delete(id);
+  149 
+→ 150     let deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:32 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:41:37.362] [INFO] Giang_vien - Có GET request đến http://localhost:5000/api/giangvien/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:42:07.224] [INFO] User - Có GET request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:42:21.862] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:42:21.869] [INFO] User - GV
+[2021-09-02T11:42:21.872] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:42:21.893] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:49
+
+  147 try {
+  148     const response = EntityApi.delete(id);
+  149 
+→ 150     let deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:32 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:44:22.671] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:44:22.838] [INFO] User - {
+  id: 'U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c',
+  username: 'quanghieuk31',
+  password: '$2b$10$DTQpEAJhwmxmuRDH6px7juecBQX9t/Dk0lgQFbxevVON9rWBIhJ/u',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-02T03:54:53.055Z,
+  update_at: 2021-09-02T04:11:22.193Z,
+  fk_profile: 'GV_d66c1cd1-cac9-4ed2-898e-013a81b18730'
+}
+[2021-09-02T11:44:22.839] [INFO] User - GV
+[2021-09-02T11:44:22.856] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:44:22.868] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:49
+
+  148 try {
+  149     const response = EntityApi.delete(id);
+  150 
+→ 151     let deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:32 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:45:07.590] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T11:45:07.694] [INFO] User - {
+  id: 'U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c',
+  username: 'quanghieuk31',
+  password: '$2b$10$DTQpEAJhwmxmuRDH6px7juecBQX9t/Dk0lgQFbxevVON9rWBIhJ/u',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-02T03:54:53.055Z,
+  update_at: 2021-09-02T04:11:22.193Z,
+  fk_profile: 'GV_d66c1cd1-cac9-4ed2-898e-013a81b18730'
+}
+[2021-09-02T11:45:07.696] [INFO] User - GV
+[2021-09-02T11:45:07.713] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_d66c1cd1-cac9-4ed2-898e-013a81b18730
+[2021-09-02T11:45:07.724] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:51
+
+  148 try {
+  149     const response = EntityApi.delete(id);
+  150 
+→ 151     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:47:53.507] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T11:48:18.712] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:48:18.722] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:48:18.722] [INFO] User - GV
+[2021-09-02T11:48:18.725] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:48:18.755] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:51
+
+  148 try {
+  149     const response = EntityApi.delete(id);
+  150 
+→ 151     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:48:56.963] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:48:57.017] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:48:57.018] [INFO] User - GV
+[2021-09-02T11:48:57.020] [INFO] User - Promise { <pending> }
+[2021-09-02T11:48:57.037] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:48:57.049] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:51
+
+  148 try {
+  149     const response = EntityApi.delete(id);
+  150     logger.info(response)
+→ 151     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:49:49.738] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:49:49.785] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:49:49.786] [INFO] User - GV
+[2021-09-02T11:49:49.787] [INFO] User - Promise { <pending> }
+[2021-09-02T11:49:49.803] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:49:49.817] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:51
+
+  148 try {
+  149     const response = EntityApi.delete(id);
+  150     logger.info(response)
+→ 151     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:151:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:49:49.841] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:50:44.038] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:50:44.118] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:50:44.119] [INFO] User - GV
+[2021-09-02T11:50:44.120] [INFO] User - Promise { <pending> }
+[2021-09-02T11:50:44.139] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:50:44.174] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:51:35.697] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:51:35.752] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:51:35.754] [INFO] User - Promise { <pending> }
+[2021-09-02T11:51:35.770] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:51:35.805] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:51:54.120] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:51:54.171] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:51:54.173] [INFO] User - Promise { <pending> }
+[2021-09-02T11:51:54.189] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:51:54.202] [INFO] User - undefined
+[2021-09-02T11:51:54.225] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:52:06.270] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:52:06.347] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:52:06.348] [INFO] User - Promise { <pending> }
+[2021-09-02T11:52:06.365] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:52:06.376] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:51
+
+  147 try {
+  148     const response = EntityApi.delete(id);
+  149     logger.info(response)
+→ 150     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:52:06.394] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:52:38.843] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:52:38.937] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:52:38.939] [INFO] User - Promise { <pending> }
+[2021-09-02T11:52:38.971] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:52:38.990] [INFO] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:51
+
+  147 try {
+  148     const response = EntityApi.delete(id);
+  149     logger.info(response)
+→ 150     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:150:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T11:52:39.044] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:53:15.138] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:53:15.208] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:53:15.234] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:53:15.346] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:53:15.351] [INFO] User - Error: Request failed with status code 422
+    at createError (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\axios\lib\adapters\http.js:260:11)
+    at IncomingMessage.emit (events.js:412:35)
+    at endReadableNT (internal/streams/readable.js:1317:12)
+    at processTicksAndRejections (internal/process/task_queues.js:82:21) {
+  config: {
+    url: '/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+    method: 'delete',
+    headers: {
+      Accept: 'application/json, text/plain, */*',
+      'Content-Type': 'application/json',
+      'User-Agent': 'axios/0.21.1'
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 42,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'DELETE /api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a HTTP/1.1\r\n' +
+      'Accept: application/json, text/plain, */*\r\n' +
+      'Content-Type: application/json\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'DELETE',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 422,
+      statusMessage: 'Unprocessable Entity',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      accept: [Array],
+      'content-type': [Array],
+      'user-agent': [Array],
+      host: [Array]
+    }
+  },
+  response: {
+    status: 422,
+    statusText: 'Unprocessable Entity',
+    headers: {
+      'x-powered-by': 'Express',
+      'access-control-allow-origin': '*',
+      'content-type': 'application/json; charset=utf-8',
+      'content-length': '152',
+      etag: 'W/"98-jJmQ0HF2NpPaJnzTnhTqXX2i/uk"',
+      date: 'Thu, 02 Sep 2021 04:53:15 GMT',
+      connection: 'close'
+    },
+    config: {
+      url: '/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+      method: 'delete',
+      headers: [Object],
+      baseURL: 'http://localhost:5000',
+      transformRequest: [Array],
+      transformResponse: [Array],
+      paramsSerializer: [Function: paramsSerializer],
+      timeout: 0,
+      adapter: [Function: httpAdapter],
+      xsrfCookieName: 'XSRF-TOKEN',
+      xsrfHeaderName: 'X-XSRF-TOKEN',
+      maxContentLength: -1,
+      maxBodyLength: -1,
+      validateStatus: [Function: validateStatus],
+      data: undefined
+    },
+    request: <ref *1> ClientRequest {
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: true,
+      chunkedEncoding: false,
+      shouldKeepAlive: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: false,
+      sendDate: false,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: 0,
+      _hasBody: true,
+      _trailer: '',
+      finished: true,
+      _headerSent: true,
+      socket: [Socket],
+      _header: 'DELETE /api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a HTTP/1.1\r\n' +
+        'Accept: application/json, text/plain, */*\r\n' +
+        'Content-Type: application/json\r\n' +
+        'User-Agent: axios/0.21.1\r\n' +
+        'Host: localhost:5000\r\n' +
+        'Connection: close\r\n' +
+        '\r\n',
+      _keepAliveTimeout: 0,
+      _onPendingData: [Function: noopPendingOutput],
+      agent: [Agent],
+      socketPath: undefined,
+      method: 'DELETE',
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      path: '/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+      _ended: true,
+      res: [IncomingMessage],
+      aborted: false,
+      timeoutCb: null,
+      upgradeOrConnect: false,
+      parser: null,
+      maxHeadersCount: null,
+      reusedSocket: false,
+      host: 'localhost',
+      protocol: 'http:',
+      _redirectable: [Writable],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype]
+    },
+    data: { errors: [Array] }
+  },
+  isAxiosError: true,
+  toJSON: [Function: toJSON]
+}
+[2021-09-02T11:53:33.624] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_506d268a-3d7b-4cbf-9ec1-bded59474667
+[2021-09-02T11:53:34.961] [INFO] User - {
+  id: 'U_506d268a-3d7b-4cbf-9ec1-bded59474667',
+  username: 'quanghieuk1',
+  password: '$2b$10$zxD0B4KM7ku/WTjsI3nTreiFbabpVJ.mt5n9GA6yYHf5M70jN.gKa',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:16:58.841Z,
+  update_at: 2021-09-01T15:16:58.841Z,
+  fk_profile: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a'
+}
+[2021-09-02T11:53:34.984] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a
+[2021-09-02T11:53:35.031] [INFO] Giang_vien - Giang_vien Lỗi
+[2021-09-02T11:53:35.036] [INFO] User - {
+  errors: [
+    {
+      value: 'GV_9d7ac6da-a3bc-4040-b5c1-52d9dfb0df6a',
+      msg: 'Giang_vien không tồn tại trên hệ thống',
+      param: 'id',
+      location: 'body'
+    }
+  ]
+}
+[2021-09-02T11:54:44.302] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T11:54:57.549] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T11:54:57.666] [INFO] User - {
+  id: 'U_12361d52-7848-4237-b767-2ddcb9cf7128',
+  username: 'quanghieu1',
+  password: '$2b$10$dth6bH94mUqHHoRgw9wJvOLQHba51oeR9XwbZw3jR2b3/oCAH7k2C',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:12:36.077Z,
+  update_at: 2021-09-01T15:12:36.077Z,
+  fk_profile: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6'
+}
+[2021-09-02T11:55:41.462] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T11:55:41.529] [INFO] User - {
+  id: 'U_12361d52-7848-4237-b767-2ddcb9cf7128',
+  username: 'quanghieu1',
+  password: '$2b$10$dth6bH94mUqHHoRgw9wJvOLQHba51oeR9XwbZw3jR2b3/oCAH7k2C',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:12:36.077Z,
+  update_at: 2021-09-01T15:12:36.077Z,
+  fk_profile: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6'
+}
+[2021-09-02T11:55:41.550] [ERROR] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:148:51
+
+  145     return res.status(500).json(errorResponse([[id, "Lỗi mã ", "id", "body"]]));
+  146 }
+  147 try {
+→ 148     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:148:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T12:00:24.439] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T12:00:24.594] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T12:00:24.594] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T12:00:24.670] [INFO] User - {
+  id: 'GV_4dee65cb-87b6-4043-a3ec-af280874b329',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu'
+}
+[2021-09-02T12:00:27.618] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T12:00:32.413] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T12:00:36.516] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T12:00:36.604] [INFO] User - {
+  id: 'U_12361d52-7848-4237-b767-2ddcb9cf7128',
+  username: 'quanghieu1',
+  password: '$2b$10$dth6bH94mUqHHoRgw9wJvOLQHba51oeR9XwbZw3jR2b3/oCAH7k2C',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:12:36.077Z,
+  update_at: 2021-09-01T15:12:36.077Z,
+  fk_profile: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6'
+}
+[2021-09-02T12:00:36.623] [ERROR] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:148:51
+
+  145     return res.status(500).json(errorResponse([[id, "Lỗi mã ", "id", "body"]]));
+  146 }
+  147 try {
+→ 148     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:148:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T12:02:05.421] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T12:02:05.470] [INFO] User - {
+  id: 'U_12361d52-7848-4237-b767-2ddcb9cf7128',
+  username: 'quanghieu1',
+  password: '$2b$10$dth6bH94mUqHHoRgw9wJvOLQHba51oeR9XwbZw3jR2b3/oCAH7k2C',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:12:36.077Z,
+  update_at: 2021-09-01T15:12:36.077Z,
+  fk_profile: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6'
+}
+[2021-09-02T12:02:05.472] [INFO] User - GV_75816144-8a3e-46c3-bd09-06e6530dcac6
+[2021-09-02T12:02:05.507] [ERROR] User - PrismaClientKnownRequestError: 
+Invalid `user.delete()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:149:51
+
+  146 }
+  147 try {
+  148     logger.info(id);
+→ 149     const deleteObject = await user.delete(
+  An operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.
+    at cb (C:\Users\PC\WebstormProjects\nodejs-tutorial\node_modules\@prisma\client\runtime\index.js:36935:17)
+    at async C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:149:34 {
+  code: 'P2025',
+  clientVersion: '2.30.1',
+  meta: { cause: 'Record to delete does not exist.' }
+}
+[2021-09-02T12:03:02.007] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T12:03:02.060] [INFO] User - {
+  id: 'U_12361d52-7848-4237-b767-2ddcb9cf7128',
+  username: 'quanghieu1',
+  password: '$2b$10$dth6bH94mUqHHoRgw9wJvOLQHba51oeR9XwbZw3jR2b3/oCAH7k2C',
+  fk_quyen: 'Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+  create_at: 2021-09-01T15:12:36.077Z,
+  update_at: 2021-09-01T15:12:36.077Z,
+  fk_profile: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6'
+}
+[2021-09-02T12:03:02.061] [INFO] User - U_12361d52-7848-4237-b767-2ddcb9cf7128
+[2021-09-02T12:03:02.113] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_75816144-8a3e-46c3-bd09-06e6530dcac6
+[2021-09-02T12:03:02.200] [INFO] User - {
+  id: 'GV_75816144-8a3e-46c3-bd09-06e6530dcac6',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu'
+}
+[2021-09-02T12:03:35.517] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T14:44:35.865] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-02T14:44:39.920] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-02T14:44:39.923] [INFO] Admin - Unknown Khac
+[2021-09-02T14:45:38.297] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-02T14:45:38.376] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-02T14:45:38.376] [INFO] Admin - Unknown Khac
+[2021-09-02T14:53:08.480] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-02T14:53:08.567] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-02T14:53:08.567] [INFO] Admin - Unknown Khac
+[2021-09-02T14:54:45.748] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:00:34.513] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:01:17.342] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-02T15:01:17.447] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-02T15:01:17.447] [INFO] Admin - Unknown Khac
+[2021-09-02T15:01:34.738] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:01:46.057] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:03:51.966] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:10:36.925] [INFO] Quyền - Có POST request đến http://localhost:5000/api/quyen/
+[2021-09-02T15:11:05.303] [INFO] auth - Có POST request đến http://localhost:5000/api/auth/register
+[2021-09-02T15:11:05.526] [INFO] Admin - Có POST request đến http://localhost:5000/api/admin
+[2021-09-02T15:11:05.527] [INFO] Admin - Unknown Khac
+[2021-09-02T15:12:01.092] [INFO] Lớp - Có POST request đến http://localhost:5000/api/lop/
+[2021-09-02T15:16:24.348] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-02T15:16:24.350] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:16:27.130] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-02T15:16:27.131] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:16:34.814] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-02T15:16:34.814] [INFO] Giang_vien - Ngô Thị Huệ Nu
+[2021-09-02T15:16:42.912] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien/
+[2021-09-02T15:16:42.913] [INFO] Giang_vien - Nguyễn Quang Hiếu Nu
+[2021-09-02T15:17:25.471] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:17:25.549] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:17:25.549] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:17:25.593] [INFO] User - {
+  id: 'GV_b6ea4851-bc62-4bd3-a49f-0c7a8ce05dd9',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:18:07.968] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:18:08.206] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:18:08.207] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:18:08.331] [INFO] User - {
+  id: 'GV_762ffdf8-e0da-4b06-b020-422e73e1d2da',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:18:16.254] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:18:16.574] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:18:16.579] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:18:16.707] [INFO] User - {
+  id: 'GV_4b9f2461-098b-4f7f-9b33-f77049b7c984',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:19:29.716] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:19:29.828] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:19:29.829] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:19:29.933] [INFO] User - {
+  id: 'GV_fcb812f4-4118-4d8d-8733-c543680c9d19',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:19:41.925] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:19:42.021] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:19:42.021] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:19:42.114] [INFO] User - {
+  id: 'GV_2c5ba7d8-ba1f-4eec-8008-50e8e591d601',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:19:42.275] [ERROR] User - User undefined
+[2021-09-02T15:19:54.781] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:19:54.967] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:19:54.968] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:19:55.061] [INFO] User - {
+  id: 'GV_621a2afd-173b-4282-a484-73481c8468cb',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:19:55.202] [ERROR] User - User undefined
+[2021-09-02T15:19:56.825] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:19:56.833] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:19:56.834] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:19:56.862] [INFO] User - {
+  id: 'GV_a371deb3-bbb3-4fa7-894d-e9e26c006308',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:19:56.964] [ERROR] User - User undefined
+[2021-09-02T15:20:49.344] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:20:49.405] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:20:49.407] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:20:49.443] [INFO] User - {
+  id: 'GV_dc5cfd18-7dd3-4707-ba8f-982da21d89f2',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:20:49.563] [ERROR] User - User undefined
+[2021-09-02T15:21:34.849] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:21:35.146] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:21:35.146] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:21:35.254] [INFO] User - {
+  id: 'GV_e896ea98-0dff-4f19-b3f8-0270a779fb98',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T15:21:35.350] [INFO] User - passs1
+[2021-09-02T15:21:35.417] [ERROR] User - User Error: 
+Invalid `user.create()` invocation in
+C:\Users\PC\WebstormProjects\nodejs-tutorial\routes\user.js:71:40
+
+   68 const id = FIRST_INSERT_ID_SYNTAX + v4();
+   69 password = await bcrypt.hash(password, 10);
+   70 logger.info("passs1")
+→  71 const newUser = await user.create(
+  Foreign key constraint failed on the field: `fk_quyen`
+[2021-09-02T15:30:37.727] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:30:37.813] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:30:37.814] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:30:37.903] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:31:12.829] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:31:13.009] [INFO] User - Pass3
+[2021-09-02T15:31:13.023] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:31:13.023] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:31:13.110] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:31:32.994] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:31:33.143] [INFO] User - { errors: [ { msg: 'Access denied. No token found' } ] }
+[2021-09-02T15:31:33.150] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:31:33.150] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:31:33.227] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:31:43.668] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:31:43.906] [INFO] User - undefined
+[2021-09-02T15:31:43.916] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:31:43.916] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:31:44.024] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:31:50.339] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:31:50.349] [INFO] User - undefined
+[2021-09-02T15:31:50.352] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:31:50.352] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:31:50.393] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:32:22.115] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:32:22.207] [INFO] User - { errors: [ { msg: 'Access denied. No token found' } ] }
+[2021-09-02T15:32:22.214] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:32:22.214] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:32:22.292] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T15:34:23.944] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:34:24.078] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:34:50.610] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:34:50.778] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:37:52.575] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:37:52.769] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:41:32.265] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:41:32.342] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:41:43.204] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:41:43.309] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:42:34.235] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:42:34.311] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:43:11.608] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:43:11.690] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:44:02.556] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:44:02.722] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:45:36.459] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:45:36.525] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:46:40.598] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:46:40.618] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:48:07.380] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:48:07.648] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:48:35.433] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:48:35.541] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:49:19.235] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:49:19.311] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:49:29.063] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:49:29.315] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:50:00.129] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:50:00.207] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:50:11.228] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:50:11.362] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:51:32.605] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:51:32.737] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:51:54.691] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:51:54.965] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T15:52:18.924] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T15:52:19.134] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd
+[2021-09-02T15:52:19.181] [INFO] User - {
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    'x-powered-by': 'Express',
+    'access-control-allow-origin': '*',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '4',
+    etag: 'W/"4-K+iMpCQsduglOsYkdIUQZQMtaDM"',
+    date: 'Thu, 02 Sep 2021 08:52:19 GMT',
+    connection: 'close'
+  },
+  config: {
+    url: '/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+    method: 'get',
+    headers: {
+      'x-auth-token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkddpXVCJ9.eyJ1c2Vybm@@@@@>>>>>(RU*(U#R>R#>R*(YD*&YH*@FEDB&^%R@FE*&I^RTDS%*DFtZSI6InF1YW5naGlldSIsImlhdCI6MTYzMDU1NDMwNiwiZXhwIjoxNjMwNTkwMzA2fQ.aVrdu0smvFBKGiD-kl9Z0_IuCCkT-Vh4wTR_19QxT4w',
+      'User-Agent': 'axios/0.21.1'
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 42,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'GET /api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd HTTP/1.1\r\n' +
+      'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkddpXVCJ9.eyJ1c2Vybm@@@@@>>>>>(RU*(U#R>R#>R*(YD*&YH*@FEDB&^%R@FE*&I^RTDS%*DFtZSI6InF1YW5naGlldSIsImlhdCI6MTYzMDU1NDMwNiwiZXhwIjoxNjMwNTkwMzA2fQ.aVrdu0smvFBKGiD-kl9Z0_IuCCkT-Vh4wTR_19QxT4w\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'GET',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-auth-token': [Array],
+      'user-agent': [Array],
+      host: [Array]
+    }
+  },
+  data: null
+}
+[2021-09-02T15:52:19.219] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T15:52:19.219] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T15:52:19.320] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:00:25.605] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:00:25.716] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd
+[2021-09-02T16:00:25.790] [INFO] User - {
+  status: 200,
+  statusText: 'OK',
+  headers: {
+    'x-powered-by': 'Express',
+    'access-control-allow-origin': '*',
+    'content-type': 'application/json; charset=utf-8',
+    'content-length': '4',
+    etag: 'W/"4-K+iMpCQsduglOsYkdIUQZQMtaDM"',
+    date: 'Thu, 02 Sep 2021 09:00:25 GMT',
+    connection: 'close'
+  },
+  config: {
+    url: '/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+    method: 'get',
+    headers: {
+      'x-auth-token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkddpXVCJ9.eyJ1c2Vybm@@@@@>>>>>(RU*(U#R>R#>R*(YD*&YH*@FEDB&^%R@FE*&I^RTDS%*DFtZSI6InF1YW5naGlldSIsImlhdCI6MTYzMDU1NDMwNiwiZXhwIjoxNjMwNTkwMzA2fQ.aVrdu0smvFBKGiD-kl9Z0_IuCCkT-Vh4wTR_19QxT4w',
+      'User-Agent': 'axios/0.21.1'
+    },
+    baseURL: 'http://localhost:5000',
+    transformRequest: [ [Function: transformRequest] ],
+    transformResponse: [ [Function: transformResponse] ],
+    paramsSerializer: [Function: paramsSerializer],
+    timeout: 0,
+    adapter: [Function: httpAdapter],
+    xsrfCookieName: 'XSRF-TOKEN',
+    xsrfHeaderName: 'X-XSRF-TOKEN',
+    maxContentLength: -1,
+    maxBodyLength: -1,
+    validateStatus: [Function: validateStatus],
+    data: undefined
+  },
+  request: <ref *1> ClientRequest {
+    _events: [Object: null prototype] {
+      abort: [Function (anonymous)],
+      aborted: [Function (anonymous)],
+      connect: [Function (anonymous)],
+      error: [Function (anonymous)],
+      socket: [Function (anonymous)],
+      timeout: [Function (anonymous)],
+      prefinish: [Function: requestOnPrefinish]
+    },
+    _eventsCount: 7,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: true,
+    chunkedEncoding: false,
+    shouldKeepAlive: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: false,
+    sendDate: false,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: 0,
+    _hasBody: true,
+    _trailer: '',
+    finished: true,
+    _headerSent: true,
+    socket: Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: 'localhost',
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 7,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: false,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: null,
+      _server: null,
+      parser: null,
+      _httpMessage: [Circular *1],
+      [Symbol(async_id_symbol)]: 42,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(kSetNoDelay)]: false,
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    _header: 'GET /api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd HTTP/1.1\r\n' +
+      'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkddpXVCJ9.eyJ1c2Vybm@@@@@>>>>>(RU*(U#R>R#>R*(YD*&YH*@FEDB&^%R@FE*&I^RTDS%*DFtZSI6InF1YW5naGlldSIsImlhdCI6MTYzMDU1NDMwNiwiZXhwIjoxNjMwNTkwMzA2fQ.aVrdu0smvFBKGiD-kl9Z0_IuCCkT-Vh4wTR_19QxT4w\r\n' +
+      'User-Agent: axios/0.21.1\r\n' +
+      'Host: localhost:5000\r\n' +
+      'Connection: close\r\n' +
+      '\r\n',
+    _keepAliveTimeout: 0,
+    _onPendingData: [Function: noopPendingOutput],
+    agent: Agent {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      defaultPort: 80,
+      protocol: 'http:',
+      options: [Object],
+      requests: {},
+      sockets: [Object],
+      freeSockets: {},
+      keepAliveMsecs: 1000,
+      keepAlive: false,
+      maxSockets: Infinity,
+      maxFreeSockets: 256,
+      scheduling: 'lifo',
+      maxTotalSockets: Infinity,
+      totalSocketCount: 1,
+      [Symbol(kCapture)]: false
+    },
+    socketPath: undefined,
+    method: 'GET',
+    maxHeaderSize: undefined,
+    insecureHTTPParser: undefined,
+    path: '/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+    _ended: true,
+    res: IncomingMessage {
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 3,
+      _maxListeners: undefined,
+      socket: [Socket],
+      httpVersionMajor: 1,
+      httpVersionMinor: 1,
+      httpVersion: '1.1',
+      complete: true,
+      headers: [Object],
+      rawHeaders: [Array],
+      trailers: {},
+      rawTrailers: [],
+      aborted: false,
+      upgrade: false,
+      url: '',
+      method: null,
+      statusCode: 200,
+      statusMessage: 'OK',
+      client: [Socket],
+      _consuming: false,
+      _dumped: false,
+      req: [Circular *1],
+      responseUrl: 'http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+      redirects: [],
+      [Symbol(kCapture)]: false,
+      [Symbol(RequestTimeout)]: undefined
+    },
+    aborted: false,
+    timeoutCb: null,
+    upgradeOrConnect: false,
+    parser: null,
+    maxHeadersCount: null,
+    reusedSocket: false,
+    host: 'localhost',
+    protocol: 'http:',
+    _redirectable: Writable {
+      _writableState: [WritableState],
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _options: [Object],
+      _ended: true,
+      _ending: true,
+      _redirectCount: 0,
+      _redirects: [],
+      _requestBodyLength: 0,
+      _requestBodyBuffers: [],
+      _onNativeResponse: [Function (anonymous)],
+      _currentRequest: [Circular *1],
+      _currentUrl: 'http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd',
+      [Symbol(kCapture)]: false
+    },
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-auth-token': [Array],
+      'user-agent': [Array],
+      host: [Array]
+    }
+  },
+  data: null
+}
+[2021-09-02T16:00:25.822] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:00:25.823] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:00:25.919] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:03:04.805] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:03:04.879] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_caeb9171-fa94-4d66-afe2-d9c6a07f73fd
+[2021-09-02T16:03:04.914] [INFO] User - null
+[2021-09-02T16:03:04.919] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:03:04.919] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:03:04.986] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:03:40.100] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/
+[2021-09-02T16:03:50.807] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:03:50.911] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:03:50.924] [INFO] User - undefined
+[2021-09-02T16:04:00.531] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:04:00.608] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:04:00.658] [INFO] User - {
+  id: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Admin',
+  create_at: '2021-09-02T08:10:37.044Z',
+  update_at: '2021-09-02T08:10:37.045Z',
+  status: 1
+}
+[2021-09-02T16:05:21.097] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:05:21.239] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:05:21.283] [INFO] User - {
+  id: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Admin',
+  create_at: '2021-09-02T08:10:37.044Z',
+  update_at: '2021-09-02T08:10:37.045Z',
+  status: 1
+}
+[2021-09-02T16:05:29.488] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:05:29.650] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea0b
+[2021-09-02T16:05:29.684] [ERROR] User - User Error: Request failed with status code 400
+[2021-09-02T16:08:07.968] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:08:08.060] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:08:08.131] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:08:08.132] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:08:08.213] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:24:34.511] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:24:34.595] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:24:34.715] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:24:34.717] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:24:34.803] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:24:34.806] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:26:44.037] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:26:44.103] [INFO] User - Username hợp lệ
+[2021-09-02T16:26:44.104] [INFO] User - Loại hợp lệ
+[2021-09-02T16:26:44.143] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:26:44.196] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:26:44.204] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:26:44.207] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:26:44.309] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:26:44.312] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:27:24.402] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:27:24.451] [INFO] User - Username hợp lệ
+[2021-09-02T16:27:24.451] [INFO] User - Loại hợp lệ
+[2021-09-02T16:27:24.471] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:27:24.515] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:27:24.521] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:27:24.523] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:27:24.640] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:27:24.642] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:27:49.236] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:27:49.299] [INFO] User - Username hợp lệ
+[2021-09-02T16:27:49.300] [INFO] User - Loại hợp lệ
+[2021-09-02T16:27:49.333] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:27:49.388] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:27:49.393] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:27:49.394] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:27:49.476] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:27:49.493] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:28:52.794] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:28:53.161] [INFO] User - Username hợp lệ
+[2021-09-02T16:28:53.161] [INFO] User - Loại hợp lệ
+[2021-09-02T16:28:53.200] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:28:53.284] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:28:53.307] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:28:53.307] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:28:53.461] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:28:53.462] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:29:03.686] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:29:03.744] [INFO] User - Username hợp lệ
+[2021-09-02T16:29:03.745] [INFO] User - Loại hợp lệ
+[2021-09-02T16:29:03.762] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:29:03.798] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:29:03.806] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:29:03.806] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:29:03.874] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:29:03.875] [ERROR] User - User TypeError: Assignment to constant variable.
+[2021-09-02T16:29:14.293] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:29:14.379] [INFO] User - Username hợp lệ
+[2021-09-02T16:29:14.384] [INFO] User - Loại hợp lệ
+[2021-09-02T16:29:14.418] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:29:14.489] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:29:14.495] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:29:14.496] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:29:14.587] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:29:34.289] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:29:34.390] [INFO] User - Username hợp lệ
+[2021-09-02T16:29:34.391] [INFO] User - Loại hợp lệ
+[2021-09-02T16:29:34.420] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:29:34.488] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:29:34.497] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:29:34.499] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:29:34.575] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:29:34.576] [INFO] User - Insert profile thành công
+[2021-09-02T16:29:34.654] [INFO] User - passs1
+[2021-09-02T16:29:46.761] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:29:51.191] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:29:51.223] [INFO] User - Username hợp lệ
+[2021-09-02T16:29:51.225] [INFO] User - Loại hợp lệ
+[2021-09-02T16:29:51.277] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:29:51.469] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:29:51.477] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:29:51.479] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:29:51.561] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:29:51.563] [INFO] User - Insert profile thành công
+[2021-09-02T16:39:52.706] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:39:52.790] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/undefined
+[2021-09-02T16:42:30.941] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:42:31.056] [INFO] User - {
+  password: 'quanghieu',
+  loai: 'GV',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  id: undefined
+}
+[2021-09-02T16:42:31.079] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/undefined
+[2021-09-02T16:43:05.835] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:43:05.996] [INFO] User - {
+  password: 'quanghieu',
+  loai: 'GV',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  id: 'GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597'
+}
+[2021-09-02T16:43:06.030] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597
+[2021-09-02T16:44:14.817] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:44:14.914] [INFO] User - {
+  password: 'quanghieu',
+  loai: 'GV',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  id: 'GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597'
+}
+[2021-09-02T16:44:14.937] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597
+[2021-09-02T16:44:15.019] [INFO] Giang_vien - Sửa thành công
+[2021-09-02T16:44:21.299] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:44:21.406] [INFO] User - {
+  password: 'quanghieu',
+  loai: 'GV',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Nguyễn Thị Huệ123123',
+  gioi_tinh: 'Nu',
+  id: 'GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597'
+}
+[2021-09-02T16:44:21.435] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597
+[2021-09-02T16:44:21.539] [INFO] Giang_vien - Sửa thành công
+[2021-09-02T16:44:26.271] [INFO] User - Có PUT request đến http://localhost:5000/api/user/U_4f9a9a9b-e944-4d0a-8073-4db955c45a8f
+[2021-09-02T16:44:26.324] [INFO] User - {
+  password: 'quanghieu',
+  loai: 'GV',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  id: 'GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597'
+}
+[2021-09-02T16:44:26.329] [INFO] Giang_vien - Có PUT request đến http://localhost:5000/api/giangvien/GV_d3f2893d-ba34-483b-91ba-09d4e0e1f597
+[2021-09-02T16:44:26.366] [INFO] Giang_vien - Sửa thành công
+[2021-09-02T16:46:59.934] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:47:07.260] [INFO] User - Có POST request đến http://localhost:5000/api/user/
+[2021-09-02T16:47:07.299] [INFO] User - Username hợp lệ
+[2021-09-02T16:47:07.301] [INFO] User - Loại hợp lệ
+[2021-09-02T16:47:07.315] [INFO] Quyền - Có GET request đến http://localhost:5000/api/quyen/Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b
+[2021-09-02T16:47:07.450] [INFO] User - Quyền hợp lệ
+[2021-09-02T16:47:07.459] [INFO] Giang_vien - Có POST request đến http://localhost:5000/api/giangvien
+[2021-09-02T16:47:07.459] [INFO] Giang_vien - Nguyễn Thị Huệ Nu
+[2021-09-02T16:47:07.504] [INFO] Giang_vien - Tạo thành công
+[2021-09-02T16:47:07.508] [INFO] User - Insert profile thành công
+[2021-09-02T16:51:16.511] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T16:51:53.162] [INFO] User - Có GET request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:51:57.621] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:52:41.793] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:52:51.155] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:53:59.879] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:54:10.532] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:54:17.629] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T16:54:41.895] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T16:55:20.242] [INFO] User - Có GET request đến http://localhost:5000/api/user
+[2021-09-02T16:55:25.419] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_4e0a445f-49e5-4ee3-adf0-fa28c4b8ad6c
+[2021-09-02T16:55:37.302] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:56:14.798] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:01.403] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:06.307] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:08.164] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:08.808] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:09.526] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:10.527] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:33.674] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/absolute/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:33.685] [INFO] User - {
+  id: 'U_5506752e-6729-463e-a835-5bfd0e537bc6',
+  username: 'ngothihue1',
+  password: '$2b$10$GVvnNGGO0NYkwhfRnPJkl./DkTuR.8NQtB40UslubCbiw.d4LvuRi',
+  fk_quyen: 'Q_b21968f2-4b1f-4b2c-af39-3633bbeea03b',
+  create_at: 2021-09-02T09:47:07.640Z,
+  update_at: 2021-09-02T09:57:10.538Z,
+  fk_profile: 'GV_cd06244a-5150-4146-ba1d-a6140c1e50fb',
+  status: 0
+}
+[2021-09-02T16:57:33.689] [INFO] User - U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:33.834] [INFO] Giang_vien - Có DELETE request đến http://localhost:5000/api/giangvien/GV_cd06244a-5150-4146-ba1d-a6140c1e50fb
+[2021-09-02T16:57:33.914] [INFO] Giang_vien - Xoá thành công
+[2021-09-02T16:57:33.919] [INFO] User - {
+  id: 'GV_cd06244a-5150-4146-ba1d-a6140c1e50fb',
+  ten: 'Nguyễn Thị Huệ',
+  gioi_tinh: 'Nu',
+  status: 1
+}
+[2021-09-02T16:57:38.253] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/absolute/U_5506752e-6729-463e-a835-5bfd0e537bc6
+[2021-09-02T16:57:45.397] [INFO] User - Có DELETE request đến http://localhost:5000/api/user/absolute/U_5506752e-6729-463e-a835-5bfd0e537bc6

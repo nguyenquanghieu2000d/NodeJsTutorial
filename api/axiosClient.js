@@ -12,9 +12,9 @@ const axiosClient = axios.create({
 });
 axiosClient.interceptors.request.use(async(config) => {
     // Handle token here ...
-    //     config.headers = {
-    //         'Authorization': `Bearer ` + process.env.REACT_APP_TOKEN,
-    //     }
+    config.headers = {
+        'x-auth-token': process.env.APP_TOKEN,
+    }
     return config;
 })
 axiosClient.interceptors.response.use((response) => {
